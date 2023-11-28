@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px) {
+  .btn{
+    margin-top: 4px;
+  }
+  }
+  .txt-cls{
+    border:1px solid black;
+  }
